@@ -8,6 +8,8 @@ To Do List:
 
 1. Check to see if errors are correlated. Is there evidence of time related trend in the residuals?
 
+2. Check heteroscedacity in the residual plots (funnel shape)
+
 2. Implement alternative parameters to first LSTM
 
 3. Project estimates in first LSTM.

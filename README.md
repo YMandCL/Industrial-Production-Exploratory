@@ -10,14 +10,16 @@ To Do List:
 
 2. Check heteroscedacity in the residual plots (funnel shape)
 
-2. Implement alternative parameters to first LSTM
+3. Implement alternative parameters to first LSTM
 
-3. Project estimates in first LSTM.
+4. Project estimates in first LSTM.
 
-3. Finish second LSTM model
+5. Finish second LSTM model
 
-4. Build random forest to compare errors
+6. Build random forest to compare errors
 
-5. Build ARIMA model
+7. Build ARIMA model
 
-6. Model 3 Month and 10 Year to predict yield curve
+8. Model 3 Month and 10 Year to predict yield curve
+
+9. Which elements have collinearity?

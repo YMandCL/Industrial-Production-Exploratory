@@ -22,4 +22,4 @@ To Do List:
 
 8. Model 3 Month and 10 Year to predict yield curve
 
-9. Which elements have collinearity?
+9. Which elements have collinearity? Check VIF Variance Inflation Factor. It should not exceed 5 or 10

@@ -2,9 +2,17 @@
 
 This project is conducting an exploratory analysis of Industrial Production in the United States. 
 
-All data is from the Federal Reserve Bank of St. Louis (FRED Economic Research)
+All data is from the Federal Reserve Bank of St. Louis (FRED Economic Research) last updated in May 2019.
 
-To Do List:
+January 2020 To Do List: 
+
+1.Pull latest data for December 2019
+
+
+
+
+
+Summer 2019 Notes for Future:
 
 1. Check to see if errors are correlated. Is there evidence of time related trend in the residuals?
 
